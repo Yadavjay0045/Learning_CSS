@@ -1,0 +1,46 @@
+h3{
+
+    color: bisque;
+    background-color: black;
+}
+h2{
+
+    color: red;
+    background-color: aquamarine;
+}
+
+.heading_tool_1{
+    color:indigo
+}
+.heading_tool_2{
+    color: darkgoldenrod;
+}
+
+.heading1{
+    color: blueviolet;
+}
+.heading2{
+    color: rgb(255, 238, 0);
+}
+#id1{
+    color: brown;
+}
+
+
+
+
+
+
+
+
+
+.pro1{
+    color: cornflowerblue;
+}
+.pro2{
+    background-color: chocolate;
+}
+.pro3{
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
