@@ -1,0 +1,67 @@
+.t_transform_uppercase
+{
+    text-transform: uppercase;
+}
+
+.t_transform_lowercase{
+    text-transform: lowercase;
+}
+
+.t_transform_capitalize{
+    text-transform: capitalize;
+}
+
+.t_align_centre{
+    text-align:center;
+}
+.t_align_right{
+    text-align: right;
+}
+.t_align_left{
+    text-align: left;
+}
+.t_decoration1{
+    text-decoration: overline;
+}
+.t_decoration2{
+    text-decoration: underline;
+
+}
+.t_decoration3{
+    text-decoration: line-through;
+}
+.t_decoration4{
+    text-decoration:dashed;
+}
+
+.name{
+    text-decoration:line-through underline overline ;
+    
+    
+  
+
+    
+} 
+.t_indent
+{
+    text-indent: 50px;
+}
+.t_lineheight{
+   line-height: 50px;
+}
+.word_spacing{
+    word-spacing: 30px;
+}
+.letter_spacing{
+    letter-spacing: 20px;
+}
+.t_shadow{
+font-size: 80px;
+color: cornflowerblue;
+text-shadow: 10px 5px 5px #ff8800;
+}
+.t_shadow2{
+font-size: 80px;
+color: rgb(255, 0, 55);
+text-shadow: 30px 4px 5px #f2ff00;
+}

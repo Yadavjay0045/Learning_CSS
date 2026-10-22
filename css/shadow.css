@@ -1,0 +1,14 @@
+.shadow{
+    box-shadow: 4px 4px 4px red;
+   
+}
+.drop_shadow{
+ 
+    width: 500px;
+    filter: drop-shadow(5px 4px 5px rgb(0, 0, 0));
+}
+.drop_shadow2{
+ 
+    width: 500px;
+    filter: drop-shadow(5px 4px 5px rgb(0, 0, 0));
+}
