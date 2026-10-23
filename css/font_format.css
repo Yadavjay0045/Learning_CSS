@@ -1,0 +1,19 @@
+.font_family01{
+ font-family: cursive;
+    
+}
+.font_family02{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.font_family03{
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.font_family04{
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.font_weight{
+    font-weight: 900;
+}
+.font_style{
+    font-style: italic;
+} 

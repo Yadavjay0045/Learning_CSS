@@ -1,0 +1,43 @@
+.sizeofimage{
+    width: 450px;
+}
+.border_pro1 {
+    border: 10px solid red;
+}
+.border_pro2{
+     border: 10px dashed  rgb(218, 255, 10);
+
+} 
+.border_pro3 {
+    border: 10px dotted red;
+}
+.border_pro4{
+     border: 10px double  rgb(218, 255, 10);
+
+
+} 
+.border_pro5 {
+    border: 10px inset red;
+}
+.border_pro6{
+     border: 10px outset  rgb(218, 255, 10);
+
+} 
+.border_pro7{
+     border: 10px groove  rgb(255, 0, 0);
+     box-shadow: 5px 10px 16px rgb(0, 0, 0);
+     border-color: aliceblue rgb(224, 19, 19) brown yellow;
+
+} 
+.border_pro8{
+     border: 10px solid rgb(255, 0, 0);
+     border-radius: 30% 20px 30% 20px  ;
+     border-color: brown red pink black;
+     box-shadow: 5px 10px 16px rgb(0, 0, 0);
+     /* border-color: aliceblue rgb(224, 19, 19) brown yellow; */ */
+
+} 
+
+
+
+
