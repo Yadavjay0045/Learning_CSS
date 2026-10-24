@@ -1,0 +1,25 @@
+  .bg_images{
+        background-color: aqua;
+        background-image: url("../images/tree.jpg");
+        background-repeat: no-repeat;
+        background-size:cover ;
+    }
+.linear{
+    height: 500px;
+    width: 1000px;
+     background:linear-gradient(orange,white, green); 
+    border: 20px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+.radial{
+     height: 500px;
+    width: 1000px;
+      background:radial-gradient(circle ,blue,red, yellow); 
+
+}
