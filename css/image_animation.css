@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+
+align-items:center ;
+}
+.swing{
+  filter: drop-shadow(5px 7px 5px rgb(233, 222, 222));
+animation: swing 1.5s ease-in-out infinite alternate;
+transform-origin: top center;
+position: relative;
+}
+@keyframes swing{
+
+    0%{transform: rotate(15deg);}
+    100% {transform: rotate(-15deg);}
+}

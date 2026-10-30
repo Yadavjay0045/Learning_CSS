@@ -1,0 +1,19 @@
+@media(min-width:320px) and (max-width:767px){
+
+h1{
+    color: blue;
+    font-family:'Times New Roman', Times, serif;
+
+}
+body{
+    
+background-color: red;
+}
+img{
+    background-color: aqua;
+     filter: drop-shadow(5px 4px 5px rgb(0, 0, 0));
+     display: none;
+}
+
+}
+
